@@ -1,2 +1,2 @@
 Esse é o app.txt
-Nova linha
+Alterei completamente essa linha.
