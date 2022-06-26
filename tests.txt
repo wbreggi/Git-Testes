@@ -1,3 +1,0 @@
-Esse é o tests.txt
-Acrescentei uma linha.
-Acrescentei essa tb.

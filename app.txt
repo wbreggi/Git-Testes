@@ -1,3 +1,4 @@
 Esse é o app.txt
 Alterei completamente essa linha.
 Acrescentei essa linha.
+Acrescentei essa linha.
